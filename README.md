@@ -2,7 +2,8 @@
 **Inpainting using Denoising Diffusion Probabilistic Models**
 
 
-CVPR 2022 [[Paper]](https://bit.ly/3b1ABEb)
+CVPR 2022 [[Paper]](https://bit.ly/3b1ABEb) [![Replicate](https://replicate.com/cjwbw/repaint/badge)](https://replicate.com/cjwbw/repaint)
+
 
 [![Denoising_Diffusion_Inpainting_Animation](https://user-images.githubusercontent.com/11280511/150849757-5cd762cb-07a3-46aa-a906-0fe4606eba3b.gif)](#)
 
